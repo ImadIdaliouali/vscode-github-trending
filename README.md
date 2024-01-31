@@ -1,8 +1,8 @@
-# VSCode Github Trending
+# VSCode GitHub Trending
 
 Explore Github Trending repositories directly from VSCode.
 
-![VSCode Github Trending](https://github.com/ImadIdaliouali/vscode-github-trending/blob/main/images/screenshot.png)
+![VSCode GitHub Trending](https://raw.githubusercontent.com/ImadIdaliouali/vscode-github-trending/main/images/screenshot.png)
 
 ## Features
 
@@ -13,7 +13,7 @@ Explore Github Trending repositories directly from VSCode.
 
 ## Installation
 
-Install from vscode marketplace [vscode-github-trending](https://marketplace.visualstudio.com/items?itemName=ImadIDALIOUALI.vscode-github-trending).
+Install from vscode marketplace [VSCode GitHub Trending](https://marketplace.visualstudio.com/items?itemName=ImadIDALIOUALI.vscode-github-trending).
 
 ## Usage
 
