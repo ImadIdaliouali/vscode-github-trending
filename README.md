@@ -13,6 +13,8 @@ Explore Github Trending repositories directly from VSCode.
 
 ## Installation
 
+Install from vscode marketplace [vscode-github-trending](https://marketplace.visualstudio.com/items?itemName=ImadIDALIOUALI.vscode-github-trending).
+
 ## Usage
 
 Just press `Ctrl+Shift+P` and type: `Github Trending`
